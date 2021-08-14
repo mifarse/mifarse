@@ -2,8 +2,8 @@
 My name is Serafim Urukov, currently I'm occupied as **Fullstack/Python developer** @ [**DATADVANCE LLC**](https://www.datadvance.net/) (:fr:, :ru:)
 
 ### 👨‍🎓 Education
-**Masters**, “Information Systems and Technologies” [Saint Petersburg Electrotechnical University](https://etu.ru/en/university/), Russia, 2021  
-**Bachelor**, “Information Systems and Technologies” [Saint Petersburg Electrotechnical University](https://etu.ru/en/university/), Russia, 2019
+![Master's](https://img.shields.io/badge/Master's-2021-crimson) “Information Systems and Technologies” [Saint Petersburg Electrotechnical University](https://etu.ru/en/university/), Russia  
+![Bachelor's](https://img.shields.io/badge/Bachelor's-2019-teal) “Information Systems and Technologies” [Saint Petersburg Electrotechnical University](https://etu.ru/en/university/), Russia
 
 ### 📜 Experience
 
