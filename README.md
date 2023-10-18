@@ -2,7 +2,7 @@
 My name is Serafim Urukov, currently I'm occupied as **Fullstack/Python developer** @ [**DATADVANCE LLC**](https://www.datadvance.net/) (:fr:, :ru:)
 
 ### 🐍 Python roadmap
-I'm enhancing python programming skills. Check out my repo, where I trying to solve algo https://github.com/mifarse/coderun.yandex.ru
+I'm enhancing python programming skills. Check out my repo, where I am trying to solve algo https://github.com/mifarse/coderun.yandex.ru
 
 ### 📘 Golang roadmap
 I'm studying golang.
