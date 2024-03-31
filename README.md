@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Serafim Urukov, currently I'm occupied as **Fullstack/Python developer** @ [**pSeven SAS**](https://pseven.io/)
+My name is Serafim Urukov, currently I'm occupied as **Fullstack/Python developer** @ [**pSeven SAS**](https://pseven.io/) (🇫🇷)
 
 ### 🐍 Python roadmap
 I'm enhancing python programming skills. Check out my repo, where I am trying to solve algo https://github.com/mifarse/coderun.yandex.ru
@@ -17,11 +17,11 @@ You can follow my [leetcode account](https://leetcode.com/mifarse/) and Golang r
 
 ### 📜 Experience
 
-`2021-03 – PRESENT` — **Fullstack/Python developer** @ [**DATADVANCE LLC**](https://www.datadvance.net/) (:fr:, :ru:)
+`2021-03 – PRESENT` — **Fullstack/Python developer** @ [**pSeven SAS**](https://pseven.io/) (🇫🇷)
 
 **Responsibilities**: support and develop _pSeven Enterprise_ platform — a cloud-based collaborative web environment for handling your integration and process automation tasks. 
 
-`2016-11 – 2021-02` — **Software Developer** @ [**K3D Inc.**](https://k3d.ca/) (:canada:)
+`2016-11 – 2021-02` — **Software Developer** @ [**K3D Inc.**](https://k3d.ca/) (🇨🇦)
 
 **Responsibilities**: Supervising Grafana servers. Developing python scripts for personal use and as applications for servers. 
 <details>
@@ -54,7 +54,7 @@ You can follow my [leetcode account](https://leetcode.com/mifarse/) and Golang r
 </details>
 
 
-`2014 – 2016` — **Web Developer** @ **Self-Employed** (:ru:)
+`2014 – 2016` — **Web Developer** @ **Self-Employed** (🇷🇺)
 
 **Responsibilities**: Developing scripts for websites according to the settled tasks: website parsers, web services api.
 
