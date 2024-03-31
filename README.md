@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Serafim Urukov, currently I'm occupied as **Fullstack/Python developer** @ [**DATADVANCE**](https://datadvance.ru/)
+My name is Serafim Urukov, currently I'm occupied as **Fullstack/Python developer** @ [**pSeven SAS**](https://pseven.io/)
 
 ### 🐍 Python roadmap
 I'm enhancing python programming skills. Check out my repo, where I am trying to solve algo https://github.com/mifarse/coderun.yandex.ru
