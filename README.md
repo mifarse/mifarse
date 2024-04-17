@@ -10,7 +10,7 @@ My name is Serafim Urukov, currently I'm occupied as **Fullstack/Python develope
 
 `2021-03 – PRESENT` — **Fullstack/Python developer** @ [**pSeven SAS**](https://pseven.io/) (🇫🇷)
 
-**Responsibilities**: support and develop _pSeven Enterprise_ platform — a cloud-based collaborative web environment for handling your integration and process automation tasks. 
+**Responsibilities**: support and develop _pSeven Enterprise_ platform — Low-code cloud-native platform to automate engineering processes and enable Digital Twins at scale. 
 
 `2016-11 – 2021-02` — **Software Developer** @ [**K3D Inc.**](https://k3d.ca/) (🇨🇦)
 
