@@ -1,15 +1,6 @@
 ### Hi there 👋
 My name is Serafim Urukov, currently I'm occupied as **Fullstack/Python developer** @ [**pSeven SAS**](https://pseven.io/) (🇫🇷)
 
-### 🐍 Python roadmap
-I'm enhancing python programming skills. Check out my repo, where I am trying to solve algo https://github.com/mifarse/coderun.yandex.ru
-
-### 📘 Golang roadmap
-I'm studying golang.
-You can follow my [leetcode account](https://leetcode.com/mifarse/) and Golang repo.
-
-[![LeetCode user mifarse](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fmifarse&logo=leetcode&logoColor=yellow)](https://leetcode.com/mifarse/)
-
 ### 👨‍🎓 Education
 ![Master's](https://img.shields.io/badge/Master's-2021-crimson) ![Bachelor's](https://img.shields.io/badge/Bachelor's-2019-teal) ![IELTS](https://img.shields.io/badge/IELTS-6.5-inactive)  
 **Master's**, “Information Systems and Technologies” [Saint Petersburg Electrotechnical University](https://etu.ru/en/university/), Russia  
@@ -57,6 +48,16 @@ You can follow my [leetcode account](https://leetcode.com/mifarse/) and Golang r
 `2014 – 2016` — **Web Developer** @ **Self-Employed** (🇷🇺)
 
 **Responsibilities**: Developing scripts for websites according to the settled tasks: website parsers, web services api.
+
+### 🐍 Python roadmap
+I'm enhancing python programming skills. Check out my repo, where I am trying to solve algo https://github.com/mifarse/coderun.yandex.ru
+
+### 📘 Golang roadmap
+I'm studying golang.
+You can follow my [leetcode account](https://leetcode.com/mifarse/) and Golang repo.
+
+[![LeetCode user mifarse](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fmifarse&logo=leetcode&logoColor=yellow)](https://leetcode.com/mifarse/)
+
 
 ### 📫 How to reach me
 I keep personal conversation at [Telegram](https://t.me/mifarse).
